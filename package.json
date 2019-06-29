@@ -1,0 +1,5 @@
+{
+  "name": "docker-rails-mysql",
+  "private": true,
+  "dependencies": {}
+}
